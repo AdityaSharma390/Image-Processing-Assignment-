@@ -1,6 +1,6 @@
 """
-Name: Abhishek KUmar
-Roll No: 2301010322
+Name: Aditya Sharma
+Roll No: 2301010291
 Course: Image Processing & Computer Vision
 Unit: Mini Project
 Assignment Title: Compression and Segmentation of Medical Images using Python
