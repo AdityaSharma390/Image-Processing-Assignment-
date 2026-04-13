@@ -1,6 +1,6 @@
 """
-Name: Abhishek kumar
-Roll No: 2301010322
+Name: Aditya Sharma
+Roll No: 2301010291
 Course: Image Processing & Computer Vision
 Unit: Mini Project
 Assignment Title: Smart Document Scanner & Quality Analysis System
